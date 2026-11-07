@@ -1,3 +1,4 @@
+![My GitHub Profile Banner](./assets/profile-banner.png)
 ## Hi there 👋
 
 <!--
